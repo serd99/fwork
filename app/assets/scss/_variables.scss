@@ -1,0 +1,36 @@
+/* ============================================
+   FellowWork — Global Variables (Nuxt 4)
+   Blue corporate theme
+   ============================================ */
+
+/* Brand colors */
+$primary-color: #378add;      // main blue
+$primary-dark: #0c2d5a;       // sidebar dark blue
+$primary-light: #e6f1fb;      // light blue bg
+
+/* Semantic colors */
+$success: #1d9e75;            // green
+$warning: #ba7517;            // amber
+$danger: #e24b4a;             // red
+
+/* Neutrals */
+$black: #1a2533;
+$white: #ffffff;
+$gray-light: #f4f6f9;
+$gray-border: #e6e9ee;
+$gray-text: #5a6573;
+$gray-muted: #8a93a0;
+
+/* Layout */
+$sidebar-width: 240px;
+$sidebar-collapsed: 76px;
+$navbar-height: 64px;
+$footer-height: 48px;
+
+/* Radius */
+$radius-sm: 8px;
+$radius-md: 10px;
+$radius-lg: 12px;
+
+/* Transitions */
+$ease-out: cubic-bezier(0.16, 1, 0.3, 1);
